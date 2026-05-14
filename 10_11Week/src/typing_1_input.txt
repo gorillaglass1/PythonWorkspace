@@ -1,0 +1,4 @@
+Hello Python!
+This is XOR encryption test.
+This text is for testing purposes.
+There are various inputs here.

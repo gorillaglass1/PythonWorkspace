@@ -1,0 +1,14 @@
+Kim 95
+Lee 82
+Hong 600
+Park 76
+Bae 64
+Kim 44
+Choi 64
+Choi 100
+Jung 50
+Jung 40
+Kang abc
+Hong 101
+Kim 42
+Yoon -5
