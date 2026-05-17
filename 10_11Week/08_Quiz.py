@@ -16,10 +16,9 @@ def process_file(input_file, output_file):
     try:
         rf = open("./src/"+input_file, 'r', encoding='utf-8')
         f = open("./src/"+output_file, 'w', encoding='utf-8')
-        while True:
-                line = rf.readlines()
-                for i in line:
-                    name, grade = i.rstrip().split()
+        contents = rf.readlines()
+        for i in contents:
+                name, grade = i.rstrip().split()
                 try:
                     grade = int(grade)
                     if 0 <= grade <= 100:

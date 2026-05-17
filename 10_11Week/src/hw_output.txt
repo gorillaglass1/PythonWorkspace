@@ -1,0 +1,10 @@
+Kim 95 A
+Lee 82 B
+Park 76 C
+Bae 64 D
+Kim 44 F
+Choi 64 D
+Choi 100 A
+Jung 50 F
+Jung 40 F
+Kim 42 F
